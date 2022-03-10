@@ -2,3 +2,6 @@ baseURL = "https://3dfdm.com/"
 languageCode = "en-us"
 title = "FDM Tips & Tricks"
 theme = "ananke"
+
+[params]
+  commentoEnable = true
