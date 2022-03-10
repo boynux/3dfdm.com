@@ -1,6 +1,7 @@
 ---
 title: "Leveling Your Printer"
 date: 2022-03-10T20:57:36Z
+featured_image: 'images/cr-touch.webp'
 draft: false
 ---
 
