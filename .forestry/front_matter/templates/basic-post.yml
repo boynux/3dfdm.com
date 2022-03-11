@@ -12,3 +12,5 @@ fields:
 - type: file
   name: featured_image
   label: featured_image
+pages:
+- content/about-me.md
