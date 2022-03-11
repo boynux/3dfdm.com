@@ -5,8 +5,6 @@ featured_image: "images/perfect-firstlayer.jpg"
 title: "Make perfect first layer prints"
 ---
 
-Make perfect first layer prints
-
 No matter if you are new to 3d printing or have years of experience,there are times you run into this issue that the first layer doesn’t stick well to the printer bed. 
 
 ## Why is the first layer so important?
