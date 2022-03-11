@@ -1,8 +1,7 @@
 baseURL = "https://3dfdm.com/"
 languageCode = "en-us"
-title = "FDM Tips & Tricks"
 theme = "ananke"
-
+title = "FDM Tips & Tricks"
 [params]
-  commentoEnable = true
-  favicon = "/images/favicon.png"
+commentoEnable = true
+favicon = "/images/favicon.png"
