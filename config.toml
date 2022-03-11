@@ -5,3 +5,4 @@ theme = "ananke"
 
 [params]
   commentoEnable = true
+  favicon = “/images/favicon.png”
