@@ -1,7 +1,7 @@
 ---
 date: 2022-03-11T08:28:30+01:00
 description: "Perfect first layer in 3d printing"
-featured_image: "images/perfect-firstlayer.jpg"
+featured_image: "images/perfect-first-layer.jpg"
 title: "Make perfect first layer prints"
 ---
 
