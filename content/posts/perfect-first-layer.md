@@ -35,6 +35,13 @@ Please note that the extrusion rate highly depends on the filaments and the temp
 
 Under extrusion is easy to detect, the first layer is not thick enough to get squashed to the bed. So you will end up with little to no adhesion. See if the printed layer is too thin or it peels away easily, if that’s the case slightly increase the flow rate.
 
+### Reduce the printing speed
+
+Reducing the speed (feed rate) of the first layer is an effective way to increase the adhesion for two reasons:
+
+1. Helps with keeping the filament at high temperature for a longer time and increases the adhesion to the bed.
+1. Fast traveling of the hot end can peel the layer off the print bed.
+
 ## That’s it
 
 If you get all the above parameters right, you will have a perfect, strong first layer. It takes time and practice and of course patience and a lot of trial and error, but once you understand how any of these parameters affect your first layer you can nail it every single time.
