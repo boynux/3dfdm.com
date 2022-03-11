@@ -19,7 +19,7 @@ Make sure the printer bed is always clean. I use methyl alcohol to ensure there 
 
 ### Make sure the bed is leveled
 
-Yes, this one is probably a very known issue, I dedicated an [article](//posts/leveling/) to just cover that. Take a look and make sure your bed is always leveled properly. Especially if you move your printer or change some parts don’t forget to level your bed.
+Yes, this one is probably a very known issue, I dedicated an [article](/posts/leveling/) to just cover that. Take a look and make sure your bed is always leveled properly. Especially if you move your printer or change some parts don’t forget to level your bed.
 
 ### Low hot end temperature
 
