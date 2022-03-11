@@ -1,0 +1,17 @@
+---
+label: Page template
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: field_group
+  name: cascade
+  label: cascade
+  fields:
+  - type: file
+    name: featured_image
+    label: featured_image
