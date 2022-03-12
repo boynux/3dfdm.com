@@ -2,12 +2,14 @@
 title: Accurate Dimensions
 date: 2022-03-12T00:00:00Z
 featured_image: 'images/xyz-cube.jpg'
+images:
+  - images/xyz-cube.jpg
 draft: false
 ---
 
 Oftentimes printing with accurate dimensions down to 10th of millimeter is not a big issue. For instance if you are printing a single piece object like a statue it doesn’t really matter if that’s 0.1 millimeter larger or smaller in Y axis or X axis or both.
 
-But sometimes the pieces that you are printing need to fit perfectly into each other or maybe need to be compatible with some non 3d-printed parts, like a 3d printed RC car that I buit recently (maybe another article on that later).  In these cases it’s very important that the print dimensions are as accurate as possible.
+But sometimes the pieces that you are printing need to fit perfectly into each other or maybe need to be compatible with some non 3d-printed parts, like a 3d printed RC car that "I buit recently (maybe another article on that later).  In these cases it’s very important that the print dimensions are as accurate as possible.
 
 There are a few factors you need to consider to get the end result down to 0.1 of millimeters accurate.
 

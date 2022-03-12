@@ -11,6 +11,7 @@ enableRobotsTXT = true
 [params]
 commentoEnable = true
 favicon = "/images/favicon.png"
+images = ["/images/header.jpg"]
 
 [[params.ananke_socials]]
 name = "twitter"
