@@ -9,7 +9,7 @@ Paginate = 3 # this is set low for demonstrating with dummy content. Set to a hi
 enableRobotsTXT = true
 
 [params]
-commentoEnable = true
+# commentoEnable = true
 show_reading_time = true
 favicon = "/images/favicon.png"
 images = ["/images/header.jpg"]

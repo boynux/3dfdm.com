@@ -55,3 +55,4 @@ If you want to forget about bed leveling and focus on improving other settings o
 
 I’m using [CR-Touch](https://www.creality3dshop.eu/products/creality3d-cr-touch-auto-bed-leveling-sensor-for-ender-series-3d-printer-with-4-2-2-4-2-7-motherboard?gclid=CjwKCAiA4KaRBhBdEiwAZi1zzjHamio9WtW8aRnOIx904bfD3KymJiix-fLnoGape-FGYT-rqjjBvBoCOAsQAvD_BwE) for my Ender 3 Pro printer and very happy about it so far. But you can also use other options like [BL Touch](https://www.creality3dofficial.com/collections/bl-touch?sca_ref=10788.CFDqhuwn3C).
 
+{{< hyvor-talk leveling >}}
