@@ -5,6 +5,7 @@ featured_image: "images/perfect-first-layer.jpg"
 images:
   - images/perfect-first-layer.jpg
 title: "Make perfect first layer prints"
+tags: [3dprint, first layer, over extrusion, under extrusion, print speed, heated bed]
 ---
 
 No matter if you are new to 3d printing or have years of experience,there are times you run into this issue that the first layer doesn’t stick well to the printer bed. 

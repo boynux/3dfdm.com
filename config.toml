@@ -10,6 +10,7 @@ enableRobotsTXT = true
 
 [params]
 commentoEnable = true
+show_reading_time = true
 favicon = "/images/favicon.png"
 images = ["/images/header.jpg"]
 

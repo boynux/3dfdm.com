@@ -4,6 +4,7 @@ date: 2022-03-12T00:00:00Z
 featured_image: 'images/xyz-cube.jpg'
 images:
   - images/xyz-cube.jpg
+tags: [3dprint, dimension, calibration]
 draft: false
 ---
 

@@ -4,6 +4,7 @@ date: 2022-03-10T20:57:36Z
 featured_image: 'images/3dbenchy.jpg'
 images:
   - images/3dbenchy.jpg
+tags: [3dprint, leveling, print bed, first layer]
 draft: false
 ---
 
