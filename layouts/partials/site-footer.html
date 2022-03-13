@@ -1,0 +1,22 @@
+<div class="pa4-l">
+    <form class="bg-light-green mw7 center pa4 br2-ns ba b--black-10" action="https://www.getrevue.co/profile/3dfdm/add_subscriber" method="post"  id="revue-form" name="revue-form"  target="_blank">
+      <fieldset class="cf bn ma0 pa0">
+        <legend class="pa0 f5 f4-ns mb3 black-80">Sign up for our weekly newsletter</legend>
+        <div class="cf">
+          <label class="clip" for="email-address">Email Address</label>
+          <input class="f6 f5-l input-reset bn fl black-80 bg-white pa3 lh-solid w-100 w-75-m w-80-l br2-ns br--left-ns" placeholder="Your Email Address" type="email" name="member[email]" value="" id="member_email">
+          <input class="f6 f5-l button-reset fl pv3 tc bn bg-animate bg-black-70 hover-bg-black white pointer w-100 w-25-m w-20-l br2-ns br--right-ns" type="submit" name="member[subscribe]" id="member_submit"  value="Subscribe">
+        </div>
+        <p class="revue-form-footer">By subscribing, you agree with Revue’s <a target="_blank" href="https://www.getrevue.co/terms">Terms of Service</a> and <a target="_blank" href="https://www.getrevue.co/privacy">Privacy Policy</a>.</p>
+      </fieldset>
+    </form>
+  </div>
+  
+<footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
+    <div class="flex justify-between">
+    <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.BaseURL }}" >
+      &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
+    </a>
+      <div>{{ partial "social-follow.html" . }}</div>
+    </div>
+  </footer>
