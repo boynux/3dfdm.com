@@ -1,9 +1,9 @@
 ---
 title: Accurate Dimensions
 date: 2022-03-12T00:00:00Z
-featured_image: 'images/xyz-cube.jpg'
+featured_image: 'images/xyz-cube.webp'
 images:
-  - images/xyz-cube.jpg
+  - images/xyz-cube.webp
 tags: [3dprint, dimension, calibration]
 draft: false
 ---
